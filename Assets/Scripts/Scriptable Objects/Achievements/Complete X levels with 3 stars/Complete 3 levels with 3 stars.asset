@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb402bf8746289845b92d3d61df62e2c, type: 3}
+  m_Name: Complete 3 levels with 3 stars
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 4aa4e5639251414499517b35a63be6dd, type: 3}
+  prize: {fileID: -4540918584354326388, guid: cdb0cc8ca9aac2a4d84c6aa3c1cbf52b, type: 3}
+  textKey: Achievements Panel/Prefab Mode in Context/Achievements Panel/Grid/Achievement/Text
+    (TMP)
+  value: 3
+  isUnlocked: 0
+  OnUnlock:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 11400000, guid: 7ac608abe24d9594690cac674473e4a2, type: 2}
+        m_TargetAssemblyTypeName: ScriptableObjects.Data.PlayerStatistics, Assembly-CSharp
+        m_MethodName: set_UnlockedPinkMan
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2

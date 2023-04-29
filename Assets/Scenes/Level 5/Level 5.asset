@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6341b9a4a15c8649aaa20bf0ab96d10, type: 3}
+  m_Name: Level 5
+  m_EditorClassIdentifier: 
+  minScoreToTwoStars: 400
+  minScoreToThreeStars: 850
+  levelData:
+    levelNumber: 5
+    playsCount: 0
+    starsCount: 0
+    highScore: 0
+    isCompleted: 0
+    enemiesCount:
+      totalEnemies: 0
+      enemies: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    pickedFruitsCount:
+      totalFruits: 0
+      fruits: 0000000000000000000000000000000000000000000000000000000000000000

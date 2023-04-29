@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96f556230e362d44c9d75de4aba1e49f, type: 3}
+  m_Name: Sounds DB
+  m_EditorClassIdentifier: 
+  menu: {fileID: 8300000, guid: 5124f88f64465fa47a586639273b4759, type: 3}
+  levelThemes:
+  - {fileID: 8300000, guid: 9f5ee6b58fa946e46bc368db962d75f8, type: 3}
+  darkLevelThemes:
+  - {fileID: 8300000, guid: 4527301082b2acf42a7e4acc1c151baa, type: 3}
+  click: {fileID: 8300000, guid: e46bcf4c740bdec48bcfa95e0a7fa1c7, type: 3}
+  achievement: {fileID: 8300000, guid: b8ff1a071b8b4a84d804c34c5f0591ac, type: 3}
+  appear: {fileID: 8300000, guid: 4152679a56e1e2e448cc9c722b54b471, type: 3}
+  desappear: {fileID: 8300000, guid: 54264185a122c244298ac214b93b9cfd, type: 3}
+  jump: {fileID: 8300000, guid: 65b467c1cdde1f94fab216bb9b8c555f, type: 3}
+  hit: {fileID: 8300000, guid: ef5899f7037d8c749a1ab69b66d6fec9, type: 3}
+  enemyHit: {fileID: 8300000, guid: ef5899f7037d8c749a1ab69b66d6fec9, type: 3}
+  flyEnemyWings: {fileID: 8300000, guid: fed4ab1676dd4be44b4060e600cd37fc, type: 3}
+  falling: {fileID: 8300000, guid: c5ae160c4dc73b44fad2fe66deb40c67, type: 3}
+  enemyShoot: {fileID: 8300000, guid: 0fbf49b175356114ba1d96096c103f9e, type: 3}
+  chameleonAttack: {fileID: 8300000, guid: 95d5ce3f2cea9104bb6aca2e0128ea9b, type: 3}
+  pickFruit: {fileID: 8300000, guid: 9956005c7cf419646af0dd3dd86edf75, type: 3}
+  trampolineJump: {fileID: 8300000, guid: 69b61835bde5f0441800ccd94d5cc38b, type: 3}
+  hitBox: {fileID: 8300000, guid: 937e3f2677fe35f498d483b06681a427, type: 3}
+  breakBox: {fileID: 8300000, guid: 35e56c393515ede4389ac45a21e6434a, type: 3}
+  breakBullet: {fileID: 8300000, guid: df66b06b9531f424a98c1a59078fb7a6, type: 3}
+  checkPoint: {fileID: 8300000, guid: f493bd43eaa7a9845b4f058c4ee354d0, type: 3}
+  finalPointPressed: {fileID: 8300000, guid: 5379b923d2f1ebe488aa20911e5d3f8f, type: 3}
+  finalPointReleased: {fileID: 8300000, guid: 66b761d8166cdc04898f7628fed90fc7, type: 3}

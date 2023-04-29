@@ -1,0 +1,191 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Localization Table_pt-BR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt-BR
+  m_SharedData: {fileID: 11400000, guid: 132dfb846a87f84498b52c0aadd65f35, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 7555000890870202428
+  m_TableData:
+  - m_Id: 98808531701760
+    m_Localized: "Complete o n\xEDvel"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98989486559232
+    m_Localized: 'Pontos: {selectedLevel.MinScoreToTwoStars}'
+    m_Metadata:
+      m_Items:
+      - rid: 7555000890870202428
+  - m_Id: 100103795691520
+    m_Localized: 'Pontos: {selectedLevel.MinScoreToThreeStars}'
+    m_Metadata:
+      m_Items:
+      - rid: 7555000890870202428
+  - m_Id: 101076018581504
+    m_Localized: "Maior Pontua\xE7\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 102941691138048
+    m_Localized: Frutas Coletadas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 103750340366336
+    m_Localized: "V\xEDdeo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104316000980992
+    m_Localized: Taxa de quadros
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105338068979712
+    m_Localized: Mostrar FPS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105617040527360
+    m_Localized: Som
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105666847887360
+    m_Localized: "M\xFAsica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105687479668736
+    m_Localized: Efeitos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105825178669056
+    m_Localized: Idioma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 106826954625024
+    m_Localized: Fim de jogo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 134848571166720
+    m_Localized: "N\xEDvel {selectedLevel.LevelData.levelNumber}"
+    m_Metadata:
+      m_Items:
+      - rid: 7555000890870202428
+  - m_Id: 139686189125632
+    m_Localized: "Este \xE9 um jogo de plataforma 2D onde voc\xEA deve passar dos
+      n\xEDveis e se poss\xEDvel, colete todas as estrelas.\nEle foi desenvolvido
+      por Guilherme Sena (ou nick Disassembled Sharper) usando assets livres, sendo
+      grande parte do Pixel Frog."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 325342823632896
+    m_Localized: "N\xEDvel completo!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1415120138719232
+    m_Localized: Reviver?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1808729031757824
+    m_Localized: Carregando...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13154775116730368
+    m_Localized: "- A m\xFAsica tema do n\xEDvel 5 e os efeitos sonoros s\xE3o de
+      minha autoria;\r\n- As artes s\xE3o do autor Pixel Frog;\r\n- A m\xFAsica do
+      menu \xE9 do autor Davo32 e dos n\xEDveis 1 a 4 \xE9 do autor BloodPixelHero,
+      ambos usu\xE1rios do freesound.org que disponibilizaram sob a licen\xE7a CC
+      BY 4.0;\n-A fonte \xE9 DogicaP\xECxel."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13154869543096320
+    m_Localized: "Cr\xE9ditos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19173291959701504
+    m_Localized: "Obrigado por jogar!\nEssa \xE9 a vers\xE3o 1.0.0 do jogo e que
+      provavelmente n\xE3o ter\xE1 mais atualiza\xE7\xF5es de minha parte, apenas
+      se houver necessidade de consertar algum bug.\nO c\xF3digo-fonte do jogo pode
+      ser encontrado em meu Github com o usu\xE1rio DisassembledSharper e que estar\xE1
+      sob a licen\xE7a MIT."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19265576659505152
+    m_Localized: "\xC9 com enorme prazer que lhe parabenizo por terminar as cinco
+      fases, pois fico feliz que voc\xEA tenha empenhado em chegar at\xE9 aqui.\r\nObrigado
+      por jogar a primeira vers\xE3o beta do meu jogo, se voc\xEA possui algum elogio,
+      sugest\xE3o ou cr\xEDtica, fique a vontade para entrar em contato comigo.\r\nVoc\xEA
+      pode mandar feedbacks pela pr\xF3pria Play Store ou pelo meu email: guilherme.senadeaguiar@outlook.com\r\nAt\xE9
+      breve. :)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20765175408676864
+    m_Localized: Controles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24016775866667008
+    m_Localized: Uma nova conquista foi desbloqueada!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25415319144026112
+    m_Localized: Conquistas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25427547125633024
+    m_Localized: "Complete 3 n\xEDveis com 3 estrelas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25427807717740544
+    m_Localized: "Complete 6 n\xEDveis com 3 estrelas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25889461584711680
+    m_Localized: Selecione o seu personagem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26057484098523136
+    m_Localized: "Complete 12 n\xEDveis com 3 estrelas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26057813603045376
+    m_Localized: "Complete 20 n\xEDveis com 3 estrelas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26061187119501312
+    m_Localized: "Jogue qualquer n\xEDvel uma vez"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26061334696087552
+    m_Localized: "Jogue qualquer n\xEDvel 10 vezes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26858158554009600
+    m_Localized: "Jogue qualquer n\xEDvel 20 vezes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26858474519318528
+    m_Localized: "Jogue qualquer n\xEDvel 50 vezes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26861253317021696
+    m_Localized: "Jogue qualquer n\xEDvel 100 vezes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28240897496764416
+    m_Localized: Loja
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 7555000890870202428
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00d0ee52e114000000d02e561616000000d02ec9075a000000d02e3b0b5b000000d02ee1a47a0000

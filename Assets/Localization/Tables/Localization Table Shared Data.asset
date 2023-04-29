@@ -1,0 +1,181 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Localization Table Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Localization Table
+  m_TableCollectionNameGuidString: 132dfb846a87f84498b52c0aadd65f35
+  m_Entries:
+  - m_Id: 98808531701760
+    m_Key: Menu/Screen UI/Levels Panel/Level panel/Stars/Star 1/Complete Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98989486559232
+    m_Key: Menu/Screen UI/Levels Panel/Level panel/Stars/Star 2/Min Score Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 100103795691520
+    m_Key: Menu/Screen UI/Levels Panel/Level panel/Stars/Star 3/Min Score Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101076018581504
+    m_Key: Menu/Screen UI/Levels Panel/Level panel/Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 102941691138048
+    m_Key: Menu/Screen UI/Statistics Panel/Collected Fruits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 103750340366336
+    m_Key: Menu/Screen UI/Settings Panel/Video Part/Video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104316000980992
+    m_Key: Menu/Screen UI/Settings Panel/Video Part/Framerate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105338068979712
+    m_Key: Menu/Screen UI/Settings Panel/Video Part/Fps Toggle/Label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105617040527360
+    m_Key: Menu/Screen UI/Settings Panel/Sound Part/Sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105666847887360
+    m_Key: Menu/Screen UI/Settings Panel/Sound Part/Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105687479668736
+    m_Key: Menu/Screen UI/Settings Panel/Sound Part/Effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105825178669056
+    m_Key: Menu/Screen UI/Settings Panel/Language Part/Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 106826954625024
+    m_Key: Screen UI/Screen UI/Game Over/Panel/Game Over Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 134848571166720
+    m_Key: Menu/Screen UI/Levels Panel/Level panel/Level Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 139686189125632
+    m_Key: Menu/Screen UI/About Panel/Content 1/About text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 325342823632896
+    m_Key: Level 1/Screen UI/Complete/Panel/Complete Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1415120138719232
+    m_Key: Screen UI/Screen UI/Revive/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1808729031757824
+    m_Key: Loading/Canvas/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13154775116730368
+    m_Key: Menu/Screen UI/About Panel/Content 2/About text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13154869543096320
+    m_Key: Menu/Screen UI/About Panel/Content 2/Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19173291959701504
+    m_Key: Menu/Screen UI/Intro Panel/Intro Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19265576659505152
+    m_Key: End/Screen UI/Message Panel/About text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20765175408676864
+    m_Key: Settings Panel/Prefab Mode in Context/Settings Panel/Controls part/Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24016775866667008
+    m_Key: Menu/Achievements Manager/Canvas/Achievement Warn/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25415319144026112
+    m_Key: Achievements Panel/Prefab Mode in Context/Achievements Panel/Achievements
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25427547125633024
+    m_Key: Achievements Panel/Prefab Mode in Context/Achievements Panel/Grid/Achievement/Text
+      (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25427807717740544
+    m_Key: Achievements Panel/Prefab Mode in Context/Achievements Panel/Grid/Achievement
+      (1)/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25889461584711680
+    m_Key: Menu/Screen UI/Skins Panel/Select your character
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26057484098523136
+    m_Key: Achievements Panel/Prefab Mode in Context/Achievements Panel/Grid/Achievement
+      (2)/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26057813603045376
+    m_Key: Achievements Panel/Prefab Mode in Context/Achievements Panel/Grid/Achievement
+      (3)/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26061187119501312
+    m_Key: Achievements Panel/Prefab Mode in Context/Achievements Panel/Grid/Achievement
+      (4)/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26061334696087552
+    m_Key: Achievements Panel/Prefab Mode in Context/Achievements Panel/Grid/Achievement
+      (5)/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26858158554009600
+    m_Key: Achievements Panel/Prefab Mode in Context/Achievements Panel/Scroll View/Viewport/Grid/Achievement
+      (6)/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26858474519318528
+    m_Key: Achievements Panel/Prefab Mode in Context/Achievements Panel/Scroll View/Viewport/Grid/Achievement
+      (7)/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26861253317021696
+    m_Key: Achievements Panel/Prefab Mode in Context/Achievements Panel/Scroll View/Viewport/Grid/Achievement
+      (8)/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28240897496764416
+    m_Key: Menu/Screen UI/Shop Panel/Title
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7555000890870202392
+  references:
+    version: 2
+    RefIds:
+    - rid: 7555000890870202392
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1673628484401
